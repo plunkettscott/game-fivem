@@ -1,0 +1,19 @@
+{
+  "name": "@responseams/game-fivem",
+  "version": "0.0.0",
+  "description": "The Lavra Response FiveM resources",
+  "main": "index.js",
+  "repository": "git@github.com:responseams/game-fivem.git",
+  "author": "Scott Plunkett <scottplunkett15@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "lerna": "lerna",
+    "bootstrap": "lerna bootstrap",
+    "dir": "node scripts/dir-link.js $*"
+  },
+  "devDependencies": {
+    "lerna": "^3.20.2",
+    "prettier": "^1.19.1",
+    "symlink-dir": "^3.1.2"
+  }
+}

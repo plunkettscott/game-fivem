@@ -1,8 +1,8 @@
 fx_version 'adamant'
 game 'gta5'
 
-name 'Response'
-description 'Base resource for Response'
+name 'Response Live Map'
+description 'Live Map resource for Response'
 author 'Aeoss Technology'
 url 'RESPONSE_URL_HERE'
 
