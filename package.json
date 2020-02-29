@@ -12,8 +12,8 @@
     "dir": "node scripts/dir-link.js"
   },
   "devDependencies": {
-    "lerna": "^3.20.2",
-    "prettier": "^1.19.1",
-    "symlink-dir": "^3.1.2"
+    "lerna": "3.20.2",
+    "prettier": "1.19.1",
+    "symlink-dir": "3.1.2"
   }
 }
